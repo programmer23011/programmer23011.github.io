@@ -1,0 +1,201 @@
+h1{
+    text-align: center;
+    font-family: Arial;
+}
+header{
+    background-color: rgb(146, 208, 223);
+    height: 50px;
+}
+.is1{
+    width: 1900px;
+    height: 780px; 
+}
+button{
+    background-color: rgb(173, 247, 247);
+    border: rgb(255, 255, 255);
+    margin-left: 50px;
+    font-size: 30px;
+}
+button:hover{
+    background-color: rgb(124, 206, 209);
+}
+h2{
+    text-align: center;
+    font-family: Arial;
+}
+.baycal{
+    font-size: 25px;
+    text-align: center;
+    font-family: Arial;
+}
+.is3 {
+    justify-content: center;
+}
+.t2{
+    font-size: 25px;
+    font-family: Arial;
+}
+.i1s3{
+    width: 778px;
+    height: 720px; 
+}
+body{
+    background-color: rgb(182, 220, 230);
+}
+a{
+    text-decoration: none;
+}
+b{
+    text-decoration: underline;
+}
+.is4{
+    width: 940px;
+    height: 720px;
+}
+.i1s4{
+    width: 940px;
+    height: 720px; 
+}
+.bh{
+    width: 300px;
+    height: 30px; 
+    background-color:  rgb(157, 207, 219);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 25px;
+    font-family: Arial;
+    margin-top: 20px;
+}
+.bh:hover{
+    background-color:  rgb(91, 136, 148);
+}
+.b{
+    width: 850px;
+    height: 700px;
+    background-image: url(e81c1d40597e0e2589ba6244cd4944d2_w1100.jpg);
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-left: 60px;
+}
+.b1{
+    width: 850px;
+    height: 700px;
+    background-image: url(1epiFZlaZyE.jpg);
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-left: 60px;
+}
+.b2{
+    width: 500px;
+    height: 400px; 
+    margin-left: 650px;
+}
+.b3{
+    width: 700px;
+    height: 1000px;
+    margin-left: 180px;
+}
+footer{
+    background-color: rgb(146, 208, 223);
+    font-size: 20px;
+}
+.v{
+    background-image: url(get-up-close-with-the.jpg);
+    width: 850px;
+    height: 700px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+footer{
+    height: 100px;
+    text-align: center;
+}
+.v1{
+    background-image: url(waitomo-glowworm-caves_2.jpg);
+    width: 850px;
+    height: 700px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.g{
+    background-image: url(velikolepie_shvejtsarii_v_otkrytkakh_1890_goda_1.jpg);
+    width: 850px;
+    height: 700px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.g1{
+    background-image: url(d8627fbd1f5fe18ae2c756d1715f5626.jpg);
+    width: 850px;
+    height: 700px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.g3{
+    width: 600px;
+    height: 400px;
+    margin-left: 180px;
+}
+.t{
+    background-image: url(7BFcpLO_WJji1de-YE3mdEOirPkY3K0ZoHbTeVjQtxJPKHSGkF6Z8l9NAp_Ql_ztdf9OfUcDVFB4HIFgaIPT1vdZTXkyIXnt9Oke_XykgKgn93QtbBnfDmjbW1SBwiZkR1icov5SdZnM_jvfbMcJKw.jpg);
+    width: 850px;
+    height: 700px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.t1{
+    background-image: url(7BFcpLO_WJji1de-YE3mdEOirPkY3K0ZoHbTeVjQtxJPKHSGkF6Z8l9NAp_Ql_ztdf9OfUcDVFB4HIFgaIPT1tQ80V21Itti6voYIlLNQSAO9JA1FfF20P-Jr_oCpyS8yLtRKErGxG2IWUs-SvIWjg.jpg);
+    width: 850px;
+    height: 700px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.p{
+    background-image: url(35840095226_86013d502d_c.jpg);
+    width: 850px;
+    height: 700px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.p1{
+    background-image: url(son_doong_92.jpg);
+    width: 850px;
+    height: 700px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.w{
+    background-image: url(Maldives-glowing-vaadhoo-beach-5.jpg);
+    width: 850px;
+    height: 700px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.w1{
+    background-image: url(c21b9b92.jpg);
+    width: 850px;
+    height: 700px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-left: 60px;
+    margin-top: 10px;
+}
